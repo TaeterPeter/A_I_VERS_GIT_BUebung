@@ -21,6 +21,7 @@ import org.codehaus.jettison.json.JSONObject;
  *
  * @author martinsallaberger
  */
+@Path("patienten")
 public class Main {
 
     /**
